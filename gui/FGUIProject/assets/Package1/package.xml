@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pojr5xwr">
+  <resources>
+    <component id="bk670" name="Component1.xml" path="/" exported="true"/>
+    <image id="gp1x1" name="imgTest.png" path="/" exported="true"/>
+    <image id="gp1x2" name="pngegg.png" path="/" exported="true"/>
+    <image id="gp1x3" name="287-2879963_credit-card-payment-credit-card-payment-logo.png" path="/"/>
+    <image id="gp1x4" name="00047-677291348.png" path="/" exported="true"/>
+    <image id="gp1x5" name="00045-677291346.png" path="/" exported="true"/>
+    <image id="gp1x6" name="00063-593964396.png" path="/"/>
+    <component id="s3ia7" name="startGame.xml" path="/" exported="true"/>
+    <image id="s3ia8" name="spritesheet_chibi_character_Seed-2073509_Steps-25_Guidance-16.1.png" path="/" exported="true"/>
+    <image id="s3ia9" name="New-World-Brimstone-Sands-Pyramid-1.webp" path="/"/>
+    <image id="s3iaa" name="New-World-Brimstone-Sands-Pyramid-1(1).webp" path="/"/>
+    <image id="s3iab" name="Ffn_AqfX0AEfq3B.jpg" path="/"/>
+    <image id="s3iac" name="bag.jpg" path="/" exported="true"/>
+    <image id="s3iad" name="gift-trau-vang-3@3x.png" path="/"/>
+    <image id="s3iae" name="hoagiay.jpg" path="/"/>
+    <component id="s3iaf" name="Button1.xml" path="/" exported="true"/>
+    <component id="s3iag" name="Button2.xml" path="/" exported="true"/>
+    <component id="s3iah" name="Button3.xml" path="/" exported="true"/>
+    <image id="s3iai" name="Kim_Khanh_game_background_electronic_art_with_tomorrow_land_adcc2c04-454c-43be-9c23-14105d616b2e.png" path="/"/>
+    <image id="s3iaj" name="Screenshot 2023-03-15 173738.png" path="/"/>
+    <image id="w0gkk" name="monster.png" path="/" exported="true"/>
+    <image id="w0gkl" name="monster2.png" path="/" exported="true"/>
+    <component id="w0gkm" name="ProgressBar1.xml" path="/"/>
+    <image id="w0gkn" name="bar.png" path="/"/>
+    <image id="wzaep" name="slingshot.png" path="/" exported="true"/>
+    <image id="wzaeq" name="monster3.png" path="/"/>
+    <image id="wzaes" name="ghost.png" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

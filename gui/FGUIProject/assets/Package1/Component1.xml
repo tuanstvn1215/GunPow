@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,600" designImageLayer="1">
+  <displayList>
+    <image id="n7_s3ia" name="bg" src="s3iae" fileName="hoagiay.jpg" xy="1,1" size="1005,604"/>
+    <image id="n12_s3ia" name="n12" src="s3iai" fileName="Kim_Khanh_game_background_electronic_art_with_tomorrow_land_adcc2c04-454c-43be-9c23-14105d616b2e.png" xy="3,-341" size="1002,1002">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <component id="n8_s3ia" name="n8" src="s3iah" fileName="Button3.xml" xy="245,269" pivot="0.5,0.5" anchor="true">
+      <relation target="" sidePair=""/>
+      <Button titleColor="#000000"/>
+    </component>
+    <image id="n13_w0gk" name="n13" src="w0gkl" fileName="monster2.png" xy="877,449" pivot="0.5,0.5" anchor="true" size="163,185"/>
+    <image id="n14_w0gk" name="n14" src="w0gkl" fileName="monster2.png" xy="702,454" pivot="0.5,0.5" anchor="true" size="158,182"/>
+    <component id="n15_w0gk" name="n15" src="w0gkm" fileName="ProgressBar1.xml" xy="537,140">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n16_w0gk" name="n16" src="w0gkn" fileName="bar.png" xy="251,21" size="283,30"/>
+    <image id="n18_wzae" name="n18" src="wzaep" fileName="slingshot.png" xy="183,427" pivot="0.569,0.146" anchor="true" size="48,120"/>
+    <image id="n19_wzae" name="n3" src="wzaeq" fileName="monster3.png" xy="179,422" pivot="0.5,0.5" anchor="true" size="54,52"/>
+    <image id="n20_wzae" name="n20" src="wzaes" fileName="ghost.png" xy="142,820" size="310,331"/>
+  </displayList>
+</component>

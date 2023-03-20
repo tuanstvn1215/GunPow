@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="181,223" extention="Button" bgColorEnabled="true" bgColor="#ff0000">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_s3ia" name="n0" src="s3iad" fileName="gift-trau-vang-3@3x.png" xy="0,0">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_s3ia" name="n1" src="s3iad" fileName="gift-trau-vang-3@3x.png" xy="0,0" blend="multiply" color="#ff0000">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_s3ia" name="n2" src="s3iad" fileName="gift-trau-vang-3@3x.png" xy="0,0" blend="multiply" color="#00ff66">
+      <gearDisplay controller="button" pages="2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3_s3ia" name="n3" src="s3iad" fileName="gift-trau-vang-3@3x.png" xy="0,0" blend="multiply" color="#666666">
+      <gearDisplay controller="button" pages="3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

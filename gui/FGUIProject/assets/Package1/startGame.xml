@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600" designImageLayer="1">
+  <displayList>
+    <image id="n2_s3ia" name="n2" src="s3iaa" fileName="New-World-Brimstone-Sands-Pyramid-1(1).webp" xy="227,288"/>
+    <image id="n3_s3ia" name="n3" src="s3iaa" fileName="New-World-Brimstone-Sands-Pyramid-1(1).webp" xy="347,217"/>
+    <image id="n5_s3ia" name="n5" src="s3iac" fileName="bag.jpg" xy="-1,-2"/>
+    <image id="n6_s3ia" name="n6" src="s3iad" fileName="gift-trau-vang-3@3x.png" xy="-228,155"/>
+    <component id="n7_s3ia" name="n7" src="s3iaf" fileName="Button1.xml" xy="337,452" size="122,109"/>
+    <component id="n8_s3ia" name="n8" src="s3iag" fileName="Button2.xml" xy="350,210" size="185,93">
+      <Button icon="ui://pojr5xwrgp1x1"/>
+    </component>
+  </displayList>
+</component>

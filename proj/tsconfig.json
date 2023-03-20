@@ -1,0 +1,26 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "lib": [
+      "es2015",
+      "es5",
+      "es6",
+      "dom"
+    ],
+    "moduleResolution": "node",
+    "target": "es5",
+    "module": "amd",
+    "sourceMap": true,
+    "typeRoots": [
+      "typings/"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "dist/",
+    "bin/"
+  ]
+}
